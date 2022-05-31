@@ -1,0 +1,7 @@
+nome = input('Qual é seu nome: ')
+idad = input('Qual sua idade: ')
+peso = input('Qual seu peso: ')
+print(nome, idad, 'anos', peso)
+print("============DESAFIO 001========")
+nome = input('Qual seu nome:')
+print('Seja Bem vindo(a)', nome) 
